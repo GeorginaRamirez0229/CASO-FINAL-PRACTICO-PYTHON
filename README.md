@@ -50,5 +50,6 @@ Se generaron gráficas como:
 📊 Gráficas interactivas (Plotly)
 🚀 Resultados
 
-**El análisis permite**: Identificar tendencias de la tuberculosis a nivel global, comparar incidencia entre años, analizar grupos más afectados
-y entender el impacto según tipo de diagnóstico
+**El análisis permite**: Identificar tendencias de la tuberculosis a nivel global, comparar incidencia entre años, analizar grupos más afectados y entender el impacto según tipo de diagnóstico
+
+***Elaborado por***: Georgina Ramirez Villanueva
